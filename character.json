@@ -1,0 +1,41 @@
+[
+    {
+        "name": "soldier",
+        "health": 100,
+        "damage": 25,
+        "weapon": "sword",
+        "special_attack_chance": 0.3,
+        "special_defense_chance": 0.3,
+        "image": "assets/knight.png"
+    },
+    {
+        "name": "mage",
+        "health": 100,
+        "damage": 20,
+        "weapon": "magic",
+        "special_attack_chance": 0.3,
+        "special_defense_chance": 0.3,
+        "image": "assets/mage.png"
+
+    },
+    {
+        "name":"elf",
+        "health": 150,
+        "damage": 30,
+        "weapon": "bow",
+        "special_attack_chance": 0.3,
+        "special_defense_chance": 0.3,
+        "image": "assets/elf.png"
+
+    },
+    {
+        "name": "king",
+        "health": 50,
+        "damage":5,
+        "weapon": "crown",
+        "special_attack_chance": 0.3,
+        "special_defense_chance": 0.3,
+        "image": "assets/king.png"
+
+    }
+]
