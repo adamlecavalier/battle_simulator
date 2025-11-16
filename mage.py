@@ -1,6 +1,5 @@
 from character import Character
 import random
-import tkinter as tk
 
 class Mage(Character):
     def attack(self, defender):
